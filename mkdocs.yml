@@ -1,0 +1,5 @@
+site_name: Nany
+theme: minty
+nav:
+  - Home: index.md
+  - About: about.md
