@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Forensia Digital
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a esta guía rápida de **forensia digital**.
 
-## Commands
+En esta página encontrarás una introducción al proceso de análisis forense digital, las herramientas más usadas y recursos para seguir aprendiendo.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Qué encontrarás aquí
 
-## Project layout
+* **Introducción**: conceptos clave y objetivos.
+* **Proceso**: etapas típicas de una investigación forense.
+* **Herramientas**: software y utilidades recomendadas.
+* **Recursos**: enlaces y referencias para profundizar.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+> Esta página está construida con [MkDocs](https://www.mkdocs.org/) y puede desplegarse fácilmente como un sitio de GitHub Pages.

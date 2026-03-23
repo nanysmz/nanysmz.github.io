@@ -1,5 +1,9 @@
-site_name: Nany
+site_name: Forensia Digital
 theme: minty
 nav:
-  - Home: index.md
-  - About: about.md
+  - Inicio: index.md
+  - Introducción: introduccion.md
+  - Proceso: proceso.md
+  - Herramientas: herramientas.md
+  - Recursos: recursos.md
+  - Acerca de: about.md
