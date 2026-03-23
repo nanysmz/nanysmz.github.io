@@ -28,4 +28,4 @@ mkdocs serve
 
 ## Despliegue en GitHub Pages
 
-El sitio se despliega automáticamente al hacer push en la rama `main` usando GitHub Actions.
+El sitio se despliega automáticamente al hacer push en la rama `main` usando GitHub Actions.....
